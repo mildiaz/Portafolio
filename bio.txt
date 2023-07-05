@@ -1,0 +1,52 @@
+<HTML>
+
+	<HEAD>
+		<TITLE> BIOGRAFÍA </TITLE>
+	</HEAD>
+
+
+	<BODY>
+		<BODY BGCOLOR="#00ff00">
+		
+		<FONT SIZE="+3" color="#000000" FACE="Arial"><P ALIGN="center"><B> 
+		<U>MIGUEL  IGNACIO DÍAZ CAMPAÑA</U><BR><I>Biografía</I></B></P></font>
+		<HR align="center"size"80"width="100%"> 
+
+		
+		<FONT SIZE="+2" color="#000000" FACE="Arial"><P ALIGN="center"><B> 
+		Soy Licenciado en Lenguas Modernas, Especialista en Pedagogía,<BR>
+con estudios en Enseñanza para la Comprensión, una Certificación<BR> 
+Internacional y otra por el SENA en TICS. He trabajado en<BR> 
+instituciones de gran prestigio en Colombia, como profesor de Inglés,<BR> 
+Matemáticas en Inglés y Técnicas de Redacción tanto a nivel de<BR> 
+Colegios como Universidades.<BR><P>
+
+<FONT SIZE="+2" color="#000000" FACE="Arial"><P ALIGN="center">
+Un gran compromiso y una amplia experiencia de trabajo con educandos<BR> 
+desde primer grado hasta estudiantes universitarios, incluido el<BR> 
+entrenamiento a adultos de diferentes profesiones, me capacita<BR> 
+para comprender en toda su extensión las teorías pedagógicas y otras<BR> 
+nuevas tendencias, como también me orienta para dar a los estudiantes<BR> 
+lo mejor de las técnicas pedagógicas, didácticas y metodológicas. Así,<BR> 
+he logrado colaborar en la formación de mejores seres humanos y<BR> 
+personas académicamente eficientes.<BR><P>
+ 
+<FONT SIZE="+2" color="#000000" FACE="Arial"><P ALIGN="center">
+Soy alegre, creativo, amigable, entusiasta, inteligente, comprensivo con<BR> 
+las personas y, ante todo, muy paciente. Estas cualidades, junto con mi<BR> 
+gran experiencia como docente, mis habilidades musicales, el manejo de<BR> 
+computadores, edición de audio: Sound Forge, edición de música (partituras):<BR> 
+Finale, edición de video: Premiere, flash – Animación en 2D, TICs, Dreamweaver<BR> 
+y Photoshop, siempre han sido un aporte positivo para las Instituciones en<BR> 
+las que he trabajado.<BR><P> 
+
+
+Cordialmente,<BR><P>
+
+
+
+
+Miguel  Ignacio  Díaz  Campaña<BR>
+CC. 12.977.288 de Pasto<BR><P>
+
+</HTML>

@@ -1,0 +1,33 @@
+<HTML>
+
+	<HEAD>
+		<TITLE> INFORMACIÓN ADICIONAL </TITLE>
+	</HEAD>
+
+
+	<BODY>
+		<BODY BGCOLOR="#008080">
+		
+		<FONT SIZE="+2" color="#ffffff" FACE="Arial"><P ALIGN="center"><B> 
+		<U>MIGUEL  IGNACIO DÍAZ CAMPAÑA</U><BR><I>Información Adicional</I></B></P></font>
+		<HR align="left"size"80"width="100%"> 
+
+		
+		<FONT SIZE="+2" color="#ffffff" FACE="Arial"><P ALIGN="left"><B> 
+		Dirección: 		Kra 69D N° 96 – 39.  Int 3. Apto 506<BR>
+La Floresta<BR>
+Bogotá<BR><P>
+
+Identificación: 		12977288<BR>
+
+Estado Civil: 		Casado<BR>
+
+Tel. Residencia: 	2 71 05 05<BR>
+Celular: 		311 308 05 32<BR>
+Correo Electrónico: 	midc2001@gmail.com<BR><P>  
+
+
+DOCENTE:  INGLÉS  Y  MATEMÁTICAS  EN  INGLÉS<BR><P>
+
+
+</HTML>

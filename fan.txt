@@ -1,0 +1,27 @@
+<HTML>
+
+	<HEAD>
+		<TITLE> AFICIONES </TITLE>
+	</HEAD>
+
+
+	<BODY>
+		<BODY BGCOLOR="#ff0000">
+		
+		<FONT SIZE="+3" color="#ffffff" FACE="Arial"><P ALIGN="center"><B> 
+		<U>MIGUEL  IGNACIO DÍAZ CAMPAÑA</U><BR><I>Aficiones</I></B></P></font>
+		<HR align="left"size"80"width="100%"> 
+
+		
+		<FONT SIZE="+2" color="#ffffff" FACE="Arial"><P ALIGN="center"><B>
+Por otra parte, soy aficionado a la música. Interpreto la guitarra<BR> 
+y me gusta tocar, especialmente, música colombiana. Sin embargo,<BR> 
+también interpreto otras composiciones musicales instrumentales y<BR> 
+clásicas de otros lugares y compositores de todo el mundo.<BR><P>
+
+<FONT SIZE="+2" color="#ffffff" FACE="Arial"><P ALIGN="center"><B>
+La música es muy importante en mi vida. A través de la música he<BR> 
+logrado encontrar los sentimientos sublimes que nos hacen mejores<BR> 
+seres humanos. He llevado alegría y recuerdos a otras personas para<BR> 
+quienes la música también es importante y he construido mi vida a su<BR> 
+alrededor.<BR>

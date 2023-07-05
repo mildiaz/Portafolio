@@ -1,0 +1,25 @@
+<HTML>
+
+	<HEAD>
+		<TITLE> INFORMACIÓN ADICIONAL </TITLE>
+	</HEAD>
+
+
+	<BODY>
+		<BODY BGCOLOR="#800080">
+		
+		<FONT SIZE="+2" color="#ffffff" FACE="Arial"><P ALIGN="center"><B> 
+		<U>MIGUEL  IGNACIO DÍAZ CAMPAÑA</U><BR><I>El Autor</I></B></P></font>
+		<HR align="left"size"80"width="100%"> 
+
+		
+		<FONT SIZE="+2" color="#ffffff" FACE="Times New Roman"><P ALIGN="center"><B> 
+		Hola! Inicié este curso de HTML con el SENA porque necesito aprender<BR>
+		a diseñar páginas Web. Aunque, me ha costado mucho trabajo, estoy <BR>dispuesto
+		a seguir adelante. Esto me gusta mucho <BR> y no voy a claudicar.<P>
+
+		<FONT SIZE="+2" color="#ffffff" FACE="Times New Roman"><P ALIGN="center"><B>
+		Seguiré trabajando para lograr resultados óptimos.
+		
+
+</HTML>
